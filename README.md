@@ -86,6 +86,7 @@ Algunos procesos de la BD son  registrar clientes, manejo de inventario, proceso
 
 
 # contribuyentes
+Para modificaciones contactese con 
 > laura carrillo 
 > felipe velandia
 
