@@ -1,4 +1,4 @@
-	-- 1Obtener la lista de productos más caros que un valor específico.
+	-- 1 Obtener la lista de productos más caros que un valor específico.
 SELECT * 
 FROM producto 
 WHERE PRECIO  >= 60000;
@@ -8,7 +8,7 @@ SELECT NOMBRE_PROVEEDOR AS PROVEEDOR, TELEFONO, DIRECCION
 FROM proveedor;
 
 -- 3 Obtener la lista de clientes con su nombre, teléfono y correo.
-SELECT NOMBRE_CLIENTE AS CLIENTE, TELEFONO, CORREO_ELECTRONICO AS EMAIL
+-SELECT NOMBRE_CLIENTE AS CLIENTE, TELEFONO, CORREO_ELECTRONICO AS EMAIL
 FROM CLIENTES;
 
 -- 4 Consultar todos los medios de pago disponibles.
