@@ -77,7 +77,7 @@ Algunos procesos de la BD son  registrar clientes, manejo de inventario, proceso
 >Reabastecer productos automáticamente si están por debajo de un mínimo
 >Generar estadísticas de ventas diarias
 
-##Roles de Usuario y Permisos
+## Roles de Usuario y Permisos
 > usuario  administrado : acceso total
 > usuario ventas con acceso de lectura y actualizacion  en producto e inventario
 > USUARIO PARA PROVEEDORRES E INVENTARIO
